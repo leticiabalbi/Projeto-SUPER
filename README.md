@@ -24,4 +24,4 @@
    
    * **Modelo extrator de características**: Rede siamesa com triplet loss online semi-hard e Rede siamesa com triplet loss offline;
    
-   * **Modelo de classificação**: K-nn.
+   * **Classificador**: K-nn.
