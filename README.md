@@ -1,7 +1,7 @@
 # Projeto-SUPER
 
 ### CBIS2020_Classificação_de_doenças_respiratórias_em_auscultas_pulmonares_com_crepitações.ipynb
-  * **Descricão**: código da metodologia realizada no pôster publicada no CBIS 2020. Este experimento compreende à classificação de condições respiratórias Crônicas, Não Crônicas e Saudáveis utilizando extração de características manuais e Máquina de Vetores de Suporte. 
+  * **Descricão**: código da metodologia realizada no pôster submetido no CBIS 2020. Este experimento compreende à classificação de condições respiratórias Crônicas, Não Crônicas e Saudáveis utilizando extração de características manuais e Máquina de Vetores de Suporte. 
   
   * **Técnicas de pré-processamento**: reamostragem de frequência, segmentação por ciclo respiratório e fase inspiratória, filtro Butterworth, Hamming Window e normalização da amplitude;
   
