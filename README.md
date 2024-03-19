@@ -9,8 +9,9 @@
   
   * **Técnicas de de balanceamento e aumentação de dados**: Mudança de tom, undersampling aleatório;
   
-  * **Classificador**: SVM. 
+  * **Classificador**: SVM.
 
+  * Caso utilize esse código, cite: **SILVA, L. B. ; QUISPE, K. G. M. ; COLONNA, JUAN G. . Classificação de doenças respiratórias em auscultas pulmonares com crepitações. In: XVII Congresso Brasileiro de Informática em Saúde, 2020, Foz do Iguaçu. Anais do XVII Congresso Brasileiro de Informática em Saúde**.
 
 
 ### Classificação de doenças respiratórias em auscultas pulmonares.ipynb
